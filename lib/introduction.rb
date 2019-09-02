@@ -3,15 +3,17 @@
 # thing is NOT to "complete labs," the important thing is to learn the skills you need
 # in order to complete the rest of this course and be ready for the next course!
 
-def say_name(name)
+def introduction(name)
   puts "Hi, my name is #{name}"
 end
 
-def say_name_language(name, language)
+def introduction_with_language(name, language)
   puts "Hi, my name is #{name} and I am learning to program in #{language}"
 end
 
-def 
+def say_name_language_optional(name, language)
+  puts "Hi, my name is #{name} and I am learning to program in #{language}"
+end
 
 
 
